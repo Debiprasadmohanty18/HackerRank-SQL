@@ -1,5 +1,5 @@
 SELECT city,length(city) FROM station 
-order by length(city),city asc limit 1;
+ORDER BY length(city),city ASC LIMIT 1;
 
 /*or 
 
